@@ -62,11 +62,7 @@ app.listen(process.env.PORT || 3000, () => {
   console.log("Newsletter Site Up and Running");
 });
 
+
 /*
-url:
-    https://us10.api.mailchimp.com/3.0/lists/1654c48f7f
-API KEY:
-    b2761092b5b10a0809bbbef514dff6e8-us10
-List ID:
-    1654c48f7f
+FINAL COMMENT 220720201739
 */
